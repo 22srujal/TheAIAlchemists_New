@@ -223,7 +223,7 @@ body {
 }
 .technologies .technologies-content .srv img {
   color: var(--main-color);
-  
+  flex-basis: 60px;
 }
 .technologies .technologies-content .srv .text {
   flex: 1;
