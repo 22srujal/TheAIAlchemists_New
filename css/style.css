@@ -221,7 +221,7 @@ body {
     text-align: center;
   }
 }
-.technologies .technologies-content .srv i {
+.technologies .technologies-content .srv img {
   color: var(--main-color);
   flex-basis: 60px;
 }
