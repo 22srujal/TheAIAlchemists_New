@@ -258,37 +258,37 @@ body {
     display: none;
   }
 }
-/* Start technologies  */
-/* Start Portfolio */
-.portfolio {
+/* End technologies  */
+/* Start Key_Features */
+.Key_Features {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   background-color: var(--section-background);
 }
-.portfolio .portfolio-content {
+.Key_Features .Key_Features-content {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   grid-gap: 30px;
   margin-top: 80px;
 }
-.portfolio .portfolio-content .card {
+.Key_Features .Key_Features-content .card {
   background-color: white;
 }
-.portfolio .portfolio-content .card img {
+.Key_Features .Key_Features-content .card img {
   max-width: 100%;
 }
-.portfolio .portfolio-content .card .info {
+.Key_Features .Key_Features-content .card .info {
   padding: 20px;
 }
-.portfolio .portfolio-content .card .info h3 {
+.Key_Features .Key_Features-content .card .info h3 {
   margin: 0;
 }
-.portfolio .portfolio-content .card .info p {
+.Key_Features .Key_Features-content .card .info p {
   color: #777;
   line-height: 1.6;
   margin-bottom: 0;
 }
-/* End Portfolio */
+/* End Key_Features */
 /* Start About */
 .about {
   padding-top: var(--section-padding);
